@@ -15,3 +15,8 @@
 
 ### Emilytear1205
   + https://github.com/Emilytear1205
+
+### Jhou Ke-Jie
+  + https://github.com/
+  + Anaconda3
+  + Python
