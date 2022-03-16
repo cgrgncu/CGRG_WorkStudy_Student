@@ -17,6 +17,6 @@
   + https://github.com/Emilytear1205
 
 ### Jhou Ke-Jie
-  + https://github.com/
+  + https://github.com/chouc119
   + Anaconda3
   + Python
