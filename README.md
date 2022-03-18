@@ -17,10 +17,12 @@
 ### Emilytear1205
   + https://github.com/Emilytear1205
 
-### Jhou Ke-Jie
+### chouc119 (KeJieJhou)
   + https://github.com/chouc119
   + Anaconda3
   + Python
 
 ### terrychen0803   
   + https://github.com/terrychen0803
+
+### (XuHuaLin)
