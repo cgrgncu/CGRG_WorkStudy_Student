@@ -24,7 +24,7 @@
   + Anaconda3
   + Python
 
-### terrychen0803   
+### terrychen0803 (RuiTingChen)  
   + https://github.com/terrychen0803
 
 ### (XuHuaLin)
