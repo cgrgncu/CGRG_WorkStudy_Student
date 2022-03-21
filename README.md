@@ -28,6 +28,7 @@
   + Github帳號申請 (https://github.com/terrychen0803)
   + MATLAB安裝 (R2021a)
   + 程式練習-電極陣列判斷
+    + 參考文獻:https://sites.ualberta.ca/~unsworth/UA-classes/223/loke_course_notes.pdf
 
 ### (XuHuaLin)
 
