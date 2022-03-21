@@ -28,3 +28,11 @@
   + https://github.com/terrychen0803
 
 ### (XuHuaLin)
+
+
+### 方友群
+  + pseudo section
+    + https://gitlab.com/hkex/resipy/-/blob/master/src/resipy/Survey.py
+    + https://lucris.lub.lu.se/ws/portalfiles/portal/2863845/1290347.pdf
+  + R2
+    + http://www.es.lancs.ac.uk/people/amb/Freeware/cR2/cR2.htm
