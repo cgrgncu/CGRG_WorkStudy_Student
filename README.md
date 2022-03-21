@@ -25,7 +25,9 @@
   + Python
 
 ### terrychen0803 (RuiTingChen)  
-  + https://github.com/terrychen0803
+  + Github帳號申請 (https://github.com/terrychen0803)
+  + MATLAB安裝 (R2021a)
+  + 程式練習-電極陣列判斷
 
 ### (XuHuaLin)
 
