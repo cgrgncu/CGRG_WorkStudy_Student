@@ -28,11 +28,14 @@
   + Github帳號申請 (https://github.com/terrychen0803)
   + MATLAB安裝 (R2021a)
   + 程式練習-電極陣列判斷
-    + 參考文獻:https://sites.ualberta.ca/~unsworth/UA-classes/223/loke_course_notes.pdf
+    + 參考文獻: https://sites.ualberta.ca/~unsworth/UA-classes/223/loke_course_notes.pdf
     + 四個電極分別為A(+)、B(-)、M(+)、N(-)。或稱C1(+)、C2(-)、P1(+)、P2(-)。
 
 ### (XuHuaLin)
 
+### KaiShuoHsu
+  + Github帳號申請 (https://github.com/max4201)
+  + 
 
 ### 方友群
   + pseudo section
