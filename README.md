@@ -38,6 +38,7 @@
   + 班表: 週二 10:00-12:00
   + Github帳號申請 (https://github.com/max4201)
     + 功課表PDF去除姓名學號。
+  + MATLAB安裝 (R2021a)
 
 ### 方友群
   + pseudo section
