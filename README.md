@@ -42,6 +42,18 @@
   + MATLAB安裝 (R2021a)
   + MATLAB筆記整理: https://sites.google.com/site/yehmatlablog/
 
+### 4444Xxcbdg (ChiHsuanWang)
+  + 班表: 週二 13:00-15:00
+  + Github帳號申請 (https://github.com/4444Xxcbdg)
+  + MATLAB安裝 (R2021a)
+  + 網頁介紹
+
+### wuyunrong (YunRongWu)
+  + 班表: 週二 13:00-15:00
+  + Github帳號申請 (https://github.com/wuyunrong)
+  + MATLAB安裝 (R2020a)
+  + 網頁介紹
+  
 ### 方友群
   + pseudo section
     + https://gitlab.com/hkex/resipy/-/blob/master/src/resipy/Survey.py
