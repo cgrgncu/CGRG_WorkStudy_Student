@@ -33,7 +33,8 @@
 
 ### (XuHuaLin)
 
-### KaiShuoHsu
+### max4201 (KaiShuoHsu) 
+  + 班表: 週二 10:00-12:00
   + Github帳號申請 (https://github.com/max4201)
   + 
 
