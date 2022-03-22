@@ -12,6 +12,7 @@
   + 護照英文名字
   + 大屯火山大地電磁法文獻蒐集 
     + https://www.grb.gov.tw/ 
+  + MATLAB筆記整理
 
 ### luoyan109
   + https://github.com/luoyan109
@@ -39,6 +40,7 @@
   + Github帳號申請 (https://github.com/max4201)
     + 功課表PDF去除姓名學號。
   + MATLAB安裝 (R2021a)
+  + MATLAB筆記整理: https://sites.google.com/site/yehmatlablog/
 
 ### 方友群
   + pseudo section
