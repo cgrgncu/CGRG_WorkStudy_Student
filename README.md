@@ -53,7 +53,13 @@
   + Github帳號申請 (https://github.com/wuyunrong)
   + MATLAB安裝 (R2020a)
   + 網頁介紹
-  
+
+### es109602524practice (YaoWenHsu)
+  + 班表: 週二 13:00-15:00 、 週五 13:00-15:00
+  + Github帳號申請 (https://github.com/es109602524practice)
+    + 功課表PDF去除姓名學號。
+  + MATLAB安裝 (R2020a)
+
 ### 方友群
   + pseudo section
     + https://gitlab.com/hkex/resipy/-/blob/master/src/resipy/Survey.py
