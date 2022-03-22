@@ -26,6 +26,7 @@
 
 ### terrychen0803 (RuiTingChen)  
   + Github帳號申請 (https://github.com/terrychen0803)
+    + 功課表PDF去除姓名學號。
   + MATLAB安裝 (R2021a)
   + 程式練習-電極陣列判斷
     + 參考文獻: https://sites.ualberta.ca/~unsworth/UA-classes/223/loke_course_notes.pdf
@@ -36,7 +37,7 @@
 ### max4201 (KaiShuoHsu) 
   + 班表: 週二 10:00-12:00
   + Github帳號申請 (https://github.com/max4201)
-  + 
+    + 功課表PDF去除姓名學號。
 
 ### 方友群
   + pseudo section
