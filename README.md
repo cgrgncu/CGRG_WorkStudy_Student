@@ -17,13 +17,20 @@
     + 實驗室要不要製作PPT? 巡禮地點:參訪實驗室或借教室? 講義準備? 時間15分鐘。有學生會來聯絡我? 預定時間4/19
 
 ### luoyan109
-  + https://github.com/luoyan109
+  + 班表: 週三 15:00-17:00
+  + Github帳號申請 (https://github.com/luoyan109)
+  + 爬蟲練習
+  + 修改網頁
 
 ### Emilytear1205
-  + https://github.com/Emilytear1205
+  + 班表: 週三 15:00-17:00
+  + Github帳號申請 (https://github.com/Emilytear1205)
+  + 爬蟲練習
+  + 修改網頁
 
 ### chouc119 (KeJieJhou)
-  + https://github.com/chouc119
+  + 班表: 週二 15:00-17:00 週三 15:00-17:00
+  + Github帳號申請 (https://github.com/chouc119)
   + Anaconda3
   + Python
 
