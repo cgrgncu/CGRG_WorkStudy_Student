@@ -18,12 +18,14 @@
 
 ### luoyan109
   + 班表: 週三 15:00-17:00
+    + 工作日:
   + Github帳號申請 (https://github.com/luoyan109)
   + 爬蟲練習
   + 雨量的定義?單位?繪圖?
 
 ### Emilytear1205
   + 班表: 週三 15:00-17:00
+    + 工作日: 
   + Github帳號申請 (https://github.com/Emilytear1205)
   + 爬蟲練習
   + 雨量的定義?單位?繪圖?
