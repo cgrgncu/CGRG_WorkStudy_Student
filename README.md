@@ -55,12 +55,15 @@
 
 ### 4444Xxcbdg (ChiHsuanWang)
   + 班表: 週二 13:00-15:00
+    + 3/29  
   + Github帳號申請 (https://github.com/4444Xxcbdg)
   + MATLAB安裝 (R2021a)
   + 網頁介紹
+  + 檔案分類
 
 ### wuyunrong (YunRongWu)
   + 班表: 週二 13:00-15:00
+    + 3/29請假
   + Github帳號申請 (https://github.com/wuyunrong)
   + MATLAB安裝 (R2020a)
   + 網頁介紹
