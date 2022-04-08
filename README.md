@@ -7,6 +7,7 @@
   + https://github.com/cgrgncu
   + QGIS練習
     + https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB
+    + https://en.wikipedia.org/wiki/Geographic_coordinate_system
     + GIS基礎 - 座標轉換
   + DEM資料
   + IP使用查詢
