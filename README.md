@@ -6,6 +6,7 @@
 ### CGRGNCU
   + https://github.com/cgrgncu
   + QGIS練習
+    + GIS基礎 - 座標轉換
   + DEM資料
   + IP使用查詢
   + 櫃子整理
