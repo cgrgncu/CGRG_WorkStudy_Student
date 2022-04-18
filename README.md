@@ -52,8 +52,9 @@
     + 四個電極分別為A(+)、B(-)、M(+)、N(-)。或稱C1(+)、C2(-)、P1(+)、P2(-)。
 
 ### nk43226887 (XuHuaLin)
+  + 班表: 週一 13:00-15:00 週五 13:00-15:00
   + Github帳號申請 (https://github.com/nk43226887)
-
+    + 功課表PDF去除姓名學號。
 ### max4201 (KaiShuoHsu) 
   + 班表: 週二 10:00-12:00
   + Github帳號申請 (https://github.com/max4201)
