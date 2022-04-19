@@ -56,6 +56,7 @@
   + Github帳號申請 (https://github.com/nk43226887)
     + 功課表PDF去除姓名學號。
   + curl練習
+  
 ### max4201 (KaiShuoHsu) 
   + 班表: 週二 10:00-12:00
   + Github帳號申請 (https://github.com/max4201)
@@ -66,19 +67,21 @@
 ### 4444Xxcbdg (ChiHsuanWang)
   + 班表: 週二 13:00-15:00
     + 3/8、3/15、3/22、3/29
-    + 4/12
+    + 4/12、4/19
   + Github帳號申請 (https://github.com/4444Xxcbdg)
   + MATLAB安裝 (R2021a)
   + 網頁介紹
   + 檔案分類
+  + 4/19開始練習CGRG網頁更新
 
 ### wuyunrong (YunRongWu)
   + 班表: 週二 13:00-15:00
     + 3/8、3/15、3/22、(3/29請假)
-    + 4/12
+    + 4/12、4/19
   + Github帳號申請 (https://github.com/wuyunrong)
   + MATLAB安裝 (R2020a)
   + 網頁介紹
+  + 4/19開始練習CGRG網頁更新
 
 ### es109602524practice (YaoWenHsu)
   + 班表: 週二 13:00-15:00 、 週五 13:00-15:00
