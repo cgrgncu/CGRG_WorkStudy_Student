@@ -55,6 +55,7 @@
   + 班表: 週一 13:00-15:00 週五 13:00-15:00
   + Github帳號申請 (https://github.com/nk43226887)
     + 功課表PDF去除姓名學號。
+  + FTP Server
   + curl練習
   
 ### max4201 (KaiShuoHsu) 
