@@ -90,6 +90,13 @@
     + 功課表PDF去除姓名學號。
   + MATLAB安裝 (R2020a)
 
+
+### dayucheng0517 (DaYuCheng)
+  + 班表: 週二 13:00-15:00 、 週五 13:00-15:00
+  + Github帳號申請 (https://github.com/dayucheng0517)
+    + 功課表PDF去除姓名學號。
+  + 纜線製作
+
 ### 方友群
   + pseudo section
     + https://gitlab.com/hkex/resipy/-/blob/master/src/resipy/Survey.py
